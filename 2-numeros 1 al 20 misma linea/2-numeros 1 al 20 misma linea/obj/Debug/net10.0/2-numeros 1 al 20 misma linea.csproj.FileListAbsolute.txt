@@ -1,0 +1,14 @@
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\bin\Debug\net10.0\2-numeros 1 al 20 misma linea.exe
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\bin\Debug\net10.0\2-numeros 1 al 20 misma linea.deps.json
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\bin\Debug\net10.0\2-numeros 1 al 20 misma linea.runtimeconfig.json
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\bin\Debug\net10.0\2-numeros 1 al 20 misma linea.dll
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\bin\Debug\net10.0\2-numeros 1 al 20 misma linea.pdb
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\obj\Debug\net10.0\2-numeros 1 al 20 misma linea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\obj\Debug\net10.0\2-numeros 1 al 20 misma linea.AssemblyInfoInputs.cache
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\obj\Debug\net10.0\2-numeros 1 al 20 misma linea.AssemblyInfo.cs
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\obj\Debug\net10.0\2-numeros 1 al 20 misma linea.csproj.CoreCompileInputs.cache
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\obj\Debug\net10.0\2-numeros 1 al 20 misma linea.dll
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\obj\Debug\net10.0\refint\2-numeros 1 al 20 misma linea.dll
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\obj\Debug\net10.0\2-numeros 1 al 20 misma linea.pdb
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\obj\Debug\net10.0\2-numeros 1 al 20 misma linea.genruntimeconfig.cache
+C:\Users\Crist\Documents\Ejercicios C#\Actividad 13\2-numeros 1 al 20 misma linea\2-numeros 1 al 20 misma linea\obj\Debug\net10.0\ref\2-numeros 1 al 20 misma linea.dll
